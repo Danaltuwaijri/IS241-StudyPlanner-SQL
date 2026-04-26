@@ -58,12 +58,10 @@ This project aims to design and implement a relational database that:
 
 ```
 IS241-StudyPlanner-SQL/
-├── .gitignore
 ├── Create-Table.sql
 ├── Insert-Data.sql
 ├── Queries.sql
-└── docs/
-    └── IS241_Project_Report.pdf
+
 ```
 
 ---
